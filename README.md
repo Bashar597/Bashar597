@@ -2,7 +2,7 @@
 
 Computer Science student at **UNC Chapel Hill**, building full-stack web apps and exploring AI.
 
-📍 Chapel Hill, NC · [LinkedIn](https://linkedin.com/in/bashar-abed-4a75282b9) · [abashar@unc.edu](mailto:abashar@unc.edu)
+📍 Chapel Hill, NC · [LinkedIn](https://linkedin.com/in/basharabed) · [abashar@unc.edu](mailto:abashar@unc.edu)
 
 ### What I build
 
